@@ -26,7 +26,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+
 game_images=[rock,paper,scissors]
 your_choice=int(input("What do you choose?Type 0 for Rock,1 for Paper and 2 for Scissors:\n"))
 if your_choice>=3 or your_choice<0:
